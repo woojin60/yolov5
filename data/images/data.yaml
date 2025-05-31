@@ -1,5 +1,0 @@
-train: ./data/images/train
-val: ./data/images/val
-
-nc: 4
-names: ['plastic', 'paper', 'metal', 'glass']
