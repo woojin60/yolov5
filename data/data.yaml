@@ -1,5 +1,5 @@
-train: ./data/images/train
-val: ./data/images/valid
+train: ./data/images/train1
+val: ./data/images/valid1
 
 nc: 5  
 names: ['plastic', 'paper', 'metal', 'glass', 'organic']
